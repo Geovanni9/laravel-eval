@@ -34,15 +34,15 @@
           </div>
           <div class="form-group">
               <label for="year">Year of creation</label>
-              <input type="email" class="form-control" name="email"/>
+              <input type="text" class="form-control" name="year"/>
           </div>
           <div class="form-group">
               <label for="related_cartoon">Cartoon</label>
-              <input type="tel" class="form-control" name="phone"/>
+              <input type="text" class="form-control" name="related_cartoon"/>
           </div>
           <div class="form-group">
               <label for="drawer">Drawer</label>
-              <input type="text" class="form-control" name="password"/>
+              <input type="text" class="form-control" name="drawer"/>
           </div>
           <button type="submit" class="btn btn-block btn-danger">New Heroe</button>
       </form>
